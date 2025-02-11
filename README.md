@@ -1,38 +1,18 @@
-<h2 align="center">write once runs everywhere  📟</h2>
 
-###
 
-<br clear="both">
+## Sobre mim
+6/8 de ciência da computação, monitoramento e desempenho de sistemas e integração de soluções.
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=danielmendss.danielmendss&left_color=wheat&right_color=tan"  />
+## Habilidades principais
+- **Banco de Dados**: Oracle SQL, PL/SQL, otimização de queries
+- **Sistemas Operacionais**: Linux (Ubuntu, CentOS, Debian)
+- **Desenvolvimento**: Java (JSP, Servlets), Shell Script, SQL
+- **Ferramentas**: Eclipse, PL/SQL Developer, iReport, Postman, SOAP UI
+- **Gerenciamento**: Coordenação de suporte técnico, análise de performance, gestão de métricas
 
-###
+## Contato
+- **LinkedIn**: [danielmends](https://www.linkedin.com/in/danielmends/)
 
-<br clear="both">
-
-<div align="left">
-  <a href="www.linkedin.com/in/danielmends" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<h3 align="left">🗂️ .aboutme</h3>
-
-###
-
-<br clear="both">
-
-<p align="left">Daniel, 23 anos, estudante em bacharelado de ciências da computação.<br><br><br>- 🔭 I’m working as <br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <br clear="both">
 

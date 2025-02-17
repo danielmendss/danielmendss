@@ -16,11 +16,10 @@ Monitoramento de servidores e aplicações para garantir estabilidade e desempen
 Treinamento e suporte para usuários e equipes internas.
 
 ## Habilidades principais
-- **Banco de Dados**: Oracle SQL, PL/SQL, otimização de queries
+- **Banco de Dados**: Oracle SQL, PL/SQL, PostgreSQL
 - **Sistemas Operacionais**: Linux (Ubuntu, CentOS, Debian)
 - **Desenvolvimento**: Java (JSP, Servlets), Shell Script, SQL
 - **Ferramentas**: Eclipse, PL/SQL Developer, iReport, Postman, SOAP UI
-- **Gerenciamento**: Coordenação de suporte técnico, análise de performance, gestão de métricas
 
 ## Contato
 - **LinkedIn**: [danielmends](https://www.linkedin.com/in/danielmends/)

@@ -1,29 +1,26 @@
 
 
-## Sobre mim
-👋 Sobre Mim
-Sou Líder de Equipe Técnica na TRIX Tecnologia Inteligente, atuando com suporte, monitoramento de sistemas e gestão de chamados. Tenho experiência em Linux🐧, Java☕, Banco de Dados (PL/SQL📊) e integração de sistemas. Atualmente, sigo aprimorando minhas habilidades como estudante de ciência da computação🎓, buscando sempre aprendizado contínuo e novas soluções para desafios tecnológicos.
+# nice2meety0u, I'm Daniel.
+### Software Engineer & Support N2 Team Lead @[TRIX Tecnologia Inteligente](https://www.linkedin.com/in/danielmends/)
 
-💻 Tecnologias e Ferramentas:
-Sistemas Operacionais: Linux (monitoramento, administração e ajustes de servidores)
-Banco de Dados: Oracle SQL, PostgreSQL
-Desenvolvimento: Java,JS,Bash,SQL
+💭 I'm a Software engineer and technical leader based in Brasília - DF, Brazil 🇧🇷 , specializing in Java ☕, Spring Boot, and enterprise systems integration. I lead the N2 support team ensuring 24/7 availability of critical healthcare platforms serving major Brazilian operators.
 
-🚀 Atuação:
-Gestão e suporte técnico para sistemas corporativos.
-Análise e resolução de bugs.
-Monitoramento de servidores e aplicações para garantir estabilidade e desempenho.
-Treinamento e suporte para usuários e equipes internas.
+👷🏻 What I do :
+- Lead technical team handling Java-based system integrations and incident resolution
+- Optimize Oracle SQL queries and REST/SOAP API integrations
+- Monitor Linux production environments for stability and performance
+- Implement ITIL-based incident management reducing resolution time
+- Mentor team members in Java, SQL, and system analysis
 
-## Habilidades principais
-- **Banco de Dados**: Oracle SQL, PL/SQL, PostgreSQL
-- **Sistemas Operacionais**: Linux (Ubuntu, CentOS, Debian)
-- **Desenvolvimento**: Java (JSP, Servlets), Shell Script, SQL
-- **Ferramentas**: Eclipse, PL/SQL Developer, iReport, Postman, SOAP UI
 
-## Contato
-- **LinkedIn**: [danielmends](https://www.linkedin.com/in/danielmends/)
+Open to: Software Engineering roles (Backend) — remote/hybrid in Brasília
 
+Volunteer: Backend Developer @[He4rt Devs](https://heartdevs.com/)
+
+
+## Where you can find me
+- 💼 **LinkedIn**: [danielmends](https://www.linkedin.com/in/danielmends/)
+- ✉️ **E-mail** ✉️: You can contact me atcontato.danielmends@gmail.com
 ###
 
 <div align="left">
@@ -58,4 +55,7 @@ Treinamento e suporte para usuários e equipes internas.
   <img src="https://cdn.simpleicons.org/subversion/809CC9" height="40" alt="subversion logo"  />
 </div>
 
+
+
 ###
+> 🥠 Teach what you know. Learn what you don’t. And never stop building.

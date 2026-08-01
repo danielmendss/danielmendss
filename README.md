@@ -3,7 +3,7 @@
 # nice2meety0u, I'm Daniel.
 ### Software Engineer & Support N2 Team Lead @[TRIX Tecnologia Inteligente](https://www.linkedin.com/in/danielmends/)
 
-💭 I'm a Software engineer and technical leader based in Brasília - DF, Brazil 🇧🇷 , specializing in Java ☕, Spring Boot, and enterprise systems integration. I lead the N2 support team ensuring 24/7 availability of critical healthcare platforms serving major Brazilian operators.
+💭 I'm a Software engineer and team leader based in Brasília - DF, Brazil 🇧🇷 , specializing in Java ☕, Spring Boot, and enterprise systems integration. I lead the N2 support team ensuring 24/7 availability of critical healthcare platforms serving major Brazilian operators.
 
 👷🏻 What I do :
 - Lead technical team handling Java-based system integrations and incident resolution

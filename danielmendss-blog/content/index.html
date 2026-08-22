@@ -1,0 +1,112 @@
+---
+title: Daniel Mendes | Software Engineer
+description: Blog pessoal e portfólio de Daniel Mendes sobre Engenharia de Software, Java, Quarkus, Spring e Cloud.
+name: Daniel Mendes
+simple-name: danielmendss
+image: logo.svg
+social-github: danielmendss
+social-linkedin: danielmends
+layout: home
+---
+
+{#roq/hero}
+  {#title}Olá, sou o <span class="shimmer">Daniel Mendes</span> 👋{/title}
+  {#tagline}Software Engineer &amp; Cloud Enthusiast{/tagline}
+  {#subtitle}
+    Desenvolvendo sistemas backend resilientes, microsserviços modernos e soluções de alto desempenho com o ecossistema <strong>Java, Quarkus e Cloud Native</strong>.
+  {/subtitle}
+  <div class="dev-traits justify-center">
+    <span class="dev-trait">🇧🇷 Brasil</span>
+    <span class="dev-trait">☕ Java 21+</span>
+    <span class="dev-trait">⚡ Quarkus</span>
+    <span class="dev-trait">☁️ Cloud &amp; Docker</span>
+    <span class="dev-trait">🏛️ Clean Architecture</span>
+  </div>
+  <div class="flex flex-wrap gap-3 justify-center mt-4">
+    <a href="/blog" class="btn btn-primary"><i class="fa-solid fa-newspaper"></i> Ver Artigos</a>
+    <a href="/curriculo" class="btn btn-secondary"><i class="fa-solid fa-file-lines"></i> Meu Currículo</a>
+    <a href="/about" class="btn btn-secondary"><i class="fa-solid fa-user"></i> Sobre Mim</a>
+  </div>
+{/}
+
+<!-- Developer Terminal Card (Inspirado em arthurbazzz.dev) -->
+<div class="dev-terminal">
+  <div class="terminal-header">
+    <div class="terminal-controls">
+      <span class="terminal-dot terminal-dot-red"></span>
+      <span class="terminal-dot terminal-dot-yellow"></span>
+      <span class="terminal-dot terminal-dot-green"></span>
+    </div>
+    <div class="terminal-title">daniel@dev-workstation: ~ (neofetch)</div>
+    <div class="text-xs opacity-50 font-mono">zsh</div>
+  </div>
+  <div class="terminal-body">
+    <div class="terminal-line">
+      <span class="terminal-key">User:</span>
+      <span class="terminal-val font-semibold">Daniel Victor Mendes Ribeiro</span>
+    </div>
+    <div class="terminal-line">
+      <span class="terminal-key">Role:</span>
+      <span class="terminal-val">Software Engineer (Backend &amp; Distributed Systems)</span>
+    </div>
+    <div class="terminal-line">
+      <span class="terminal-key">Main Languages:</span>
+      <span class="terminal-val">Java (17/21+), SQL, TypeScript/JavaScript</span>
+    </div>
+    <div class="terminal-line">
+      <span class="terminal-key">Frameworks:</span>
+      <span class="terminal-val">Quarkus, Spring Boot, Hibernate / Panache, Qute</span>
+    </div>
+    <div class="terminal-line">
+      <span class="terminal-key">Databases:</span>
+      <span class="terminal-val">PostgreSQL, MySQL, Redis, Flyway</span>
+    </div>
+    <div class="terminal-line">
+      <span class="terminal-key">Infra &amp; Tools:</span>
+      <span class="terminal-val">Docker, Kubernetes, Linux, Git, Maven, CI/CD</span>
+    </div>
+    <div class="terminal-line">
+      <span class="terminal-key">Focus:</span>
+      <span class="terminal-val">Microsserviços, Clean Code, Performance, Virtual Threads</span>
+    </div>
+    <div class="terminal-prompt">
+      <span class="text-indigo-500 font-bold">daniel@dev:~$</span>
+      <span>roq build --status=ready</span>
+      <span class="terminal-cursor"></span>
+    </div>
+  </div>
+</div>
+
+<div class="roq-features">
+  {#roq/featureCard icon="fa-bolt" title="Alta Performance com Quarkus"}
+    Explorando o ecossistema Supersonic Subatomic Java, compilação nativa com GraalVM e tempos de inicialização quase instantâneos.
+  {/}
+  {#roq/featureCard icon="fa-layer-group" title="Arquitetura de Software"}
+    Foco em boas práticas, desacoplamento, Domain-Driven Design (DDD), Clean Architecture e sistemas distribuídos escaláveis.
+  {/}
+  {#roq/featureCard icon="fa-code" title="Código Limpo & Testes"}
+    Desenvolvimento guiado por testes (TDD), padrões de design modernos e manutenibilidade a longo prazo.
+  {/}
+  {#roq/featureCard icon="fa-book-open" title="Compartilhamento & Blog"}
+    Artigos práticos com tutoriais, reflexões sobre a evolução do Java, experiências reais e dicas de engenharia.
+  {/}
+</div>
+
+<section class="roq-section">
+  <div class="flex items-center justify-between mb-4">
+    <h2>Últimas Postagens</h2>
+    <a href="/blog" class="text-sm font-semibold text-indigo-600 dark:text-indigo-400 hover:underline">Ver todas <i class="fa-solid fa-arrow-right text-xs"></i></a>
+  </div>
+  <p class="text-zinc-600 dark:text-zinc-400 mb-6">Confira os artigos mais recentes sobre Java, Quarkus, arquitetura e desenvolvimento backend:</p>
+  
+  {#if site.collections.get('posts')}
+    <div class="blog-grid">
+      {#for post in site.collections.get('posts')}
+        {#if post_index <= 3}
+          {#roq/postCard post /}
+        {/if}
+      {/for}
+    </div>
+  {/if}
+</section>
+

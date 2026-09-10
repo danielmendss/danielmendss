@@ -23,10 +23,11 @@
 
 <table>
 <p>
+ <b>nice2meety0u</b>
 <html>
 
-  nice2meety0u, <em><b> I'm Daniel Victor Mendes Ribeiro</b></em>, a Software Enginner, <b>currently a System Support Engineer N2 Team Lead at @[TRIX Tecnologia Inteligente](https://www.linkedin.com/company/trix-tecnologia-inteligente/)</b>. I enjoy learning new technologies and fascionated problem solver, i like to have a daily practice at Exercism. Constantly improving my tech stack.
-  <em>based in Brasília - DF, Brazil 🇧🇷 </em>, specializing in Java , Spring Boot, and enterprise systems integration. I lead the N2 support team ensuring 24/7 availability of critical healthcare platforms serving major Brazilian operators.
+  <em><b> I'm Daniel Victor Mendes Ribeiro</b></em>, a Software Enginner, <b>currently a System Support Engineer N2 Team Lead at @[TRIX Tecnologia Inteligente](https://www.linkedin.com/company/trix-tecnologia-inteligente/)</b>. I enjoy learning new technologies and fascionated problem solver, i like to have a daily practice at Exercism. Constantly improving my tech stack.
+  based in Brasília - DF, Brazil, specializing in Java , Spring Boot, and enterprise systems integration. I lead the N2 support team ensuring 24/7 availability of critical healthcare platforms serving major Brazilian operators.
 </p>
 </table>
 
@@ -49,6 +50,9 @@
 </table>
 <br>
 <br>
+
+### More 
+
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br>
 <br>
@@ -62,30 +66,26 @@
 </p>
 
 
-### 🔗 Top Projects (built to avoid manual labor)
+### 🔗 Study's Cases
+
 <table>
   <tr>
     <td width="80%">
       <ul>
-        <li><a href="https://github.com/mayankrajput00/citycare-hospital"><b>CITYCARE</b></a> &nbsp; Secure user login and backend validation, because some code needs to self-destruct gracefully.</li>
+        <li><a href="https://github.com/danielmendss/montserrat-shop"><b>Cantina Mont Serrat</b></a> &nbsp; Secure user login and backend validation with JWT, frontend viceboed in typescript and backend hardcoded in java 21 </li>
         <br>
-        <li><a href="https://github.com/mayankrajput00/words-of-god"><b>WORDS OF GOD</b></a> &nbsp; A collection of Python scripts that run purely on faith, caffeine, and a lot of print statements
+        <li><a href="https://github.com/danielmendss/adl-ecommerce"><b>ADL E-commerce</b></a> &nbsp; ml/olx clone to sell my wife´s work
       </ul>
     </td>
     <td width="20%">
-      <!-- Yahan apne Fire image ka GitHub wala link daalein -->
       <img src="https://github.com/user-attachments/assets/e063d361-b248-4be6-8273-42761f950efe" alt="Fire" width="100%" />
     </td>
   </tr>
 </table>
-
-
 <br/>
 <br/>
 
 ### Technologies
-
-
 
 
 <p align="center">

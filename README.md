@@ -50,15 +50,17 @@
 
 ### More 
 
+<table>
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br>
 <br>
 <br>
-<p align="center">
-   <img src="https://img.shields.io/badge/Education-000000?style=flat-square&logo=googlescholar&logoColor=white" /> &nbsp; <em><b> Studying at the Universidade Cruzeiro do Sul Virtual - EAD </b></em> <br/><br/>
-   <img src="https://img.shields.io/badge/Volunteer-000000?style=flat-square&logo=discord&logoColor=white" /> &nbsp; <em><b> Volunteer Backend Developer @[He4rt Devs](https://heartdevs.com/)</b></em> <br/><br/>
+<p align="left">
+   <img src="https://img.shields.io/badge/Education-000000?style=flat-square&logo=googlescholar&logoColor=white" /> &nbsp; <em><b> Studying at the Universidade Cruzeiro do Sul Virtual - EAD </b></em> <br/>
+   <img src="https://img.shields.io/badge/Volunteer-000000?style=flat-square&logo=discord&logoColor=white" /> &nbsp; <em><b> Volunteer Backend Developer @[He4rt Devs](https://heartdevs.com/)</b></em> <br/>
    <img src="https://img.shields.io/badge/Family-000000?style=flat-square&logo=heart&logoColor=red" /> &nbsp; <em><b> Father </b></em> <br/>
 </p>
+</table>
 
 
 ### 🔗 Study's Cases

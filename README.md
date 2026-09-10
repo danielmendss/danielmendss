@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src = "githubanner.png"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielmends/" target="_blank">
@@ -59,15 +59,32 @@
    <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the Universidade Cruzeiro do Sul Virtual - EAD </b></em> <br/>
    <img src="/imgs/img4.png" width="15"/>   <em><b> Volunteer Backend Developer @[He4rt Devs](https://heartdevs.com/)</b></em><br/>
    <img src="/imgs/img2.png" width="15"/>   <em><b> Father </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
 </p>
 
 
+### 🔗 Top Projects (built to avoid manual labor)
+<table>
+  <tr>
+    <td width="80%">
+      <ul>
+        <li><a href="https://github.com/mayankrajput00/citycare-hospital"><b>CITYCARE</b></a> &nbsp; Secure user login and backend validation, because some code needs to self-destruct gracefully.</li>
+        <br>
+        <li><a href="https://github.com/mayankrajput00/words-of-god"><b>WORDS OF GOD</b></a> &nbsp; A collection of Python scripts that run purely on faith, caffeine, and a lot of print statements
+      </ul>
+    </td>
+    <td width="20%">
+      <!-- Yahan apne Fire image ka GitHub wala link daalein -->
+      <img src="https://github.com/user-attachments/assets/e063d361-b248-4be6-8273-42761f950efe" alt="Fire" width="100%" />
+    </td>
+  </tr>
+</table>
+
+
 <br/>
 <br/>
 
-###
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+### Technologies
+
 
 
 

@@ -55,10 +55,14 @@
 <br>
 <br>
 <br>
+<br>
 <p align="left">
-   <img src="https://img.shields.io/badge/Education-000000?style=flat-square&logo=googlescholar&logoColor=white" /> &nbsp; <em><b> Studying at the Universidade Cruzeiro do Sul Virtual - EAD </b></em> <br/>
-   <img src="https://img.shields.io/badge/Volunteer-000000?style=flat-square&logo=discord&logoColor=white" /> &nbsp; <em><b> Volunteer Backend Developer @[He4rt Devs](https://heartdevs.com/)</b></em> <br/>
-   <img src="https://img.shields.io/badge/Family-000000?style=flat-square&logo=heart&logoColor=red" /> &nbsp; <em><b> Father </b></em> <br/>
+<html>
+
+<em><b> Studying at the Universidade Cruzeiro do Sul Virtual - EAD </b></em> <br/>
+Volunteer Backend Developer @[He4rt Devs](https://heartdevs.com/) <br>
+Father </b></em> <br/>
+<br>
 </p>
 </table>
 

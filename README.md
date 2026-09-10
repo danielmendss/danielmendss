@@ -48,21 +48,20 @@
 <br>
 
 ### More 
-<br>
-<table>
-<html>
-  <tr>
-    <td width="15%">
-      <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250"style="margin-left: 20px;" />
-    </td>
-    <td width="20%">
-    <br>
-      <b>Studying at the Universidade Cruzeiro do Sul Virtual - EAD </b><br/> 
 
-Volunteer Backend Developer @[He4rt Devs](https://heartdevs.com/)<br>
-Father 
-<br>
-      <br><br>
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" alt="Coding" width="100%" />
+    </td>
+    <td width="70%">
+      <ul>
+        <li>🎓 <b>Studying at Universidade Cruzeiro do Sul Virtual - EAD</b></li>
+        <br>
+        <li>🤝 <b>Volunteer Backend Developer</b> @<a href="https://heartdevs.com/">He4rt Devs</a></li>
+        <br>
+        <li>👨‍👧 <b>Father</b></li>
+      </ul>
     </td>
   </tr>
 </table>

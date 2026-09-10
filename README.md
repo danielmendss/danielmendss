@@ -7,7 +7,7 @@
   <a href="https://exercism.org/profiles/intro" target="_blank">
     <img src="https://img.shields.io/badge/exercism-000000?style=for-the-badge&logo=exercism&logoColor=white" />
   </a>
-  <a href="mailto:contato.danielmends@gmail.com target="_blank">
+  <a href="mailto:contato.danielmends@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -15,16 +15,13 @@
 
 <br>
 
-### 
-
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center"> <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" /> </h2>
 
 
 
 <table>
 <p>
  <b>nice2meety0u</b>
-<html>
 
   <em><b> I'm Daniel Victor Mendes Ribeiro</b></em>, a Software Enginner, <b>currently a System Support Engineer N2 Team Lead at @[TRIX Tecnologia Inteligente](https://www.linkedin.com/company/trix-tecnologia-inteligente/)</b>. I enjoy learning new technologies and fascionated problem solver, i like to have a daily practice at Exercism. Constantly improving my tech stack.
   based in Brasília - DF, Brazil, specializing in Java , Spring Boot, and enterprise systems integration. I lead the N2 support team ensuring 24/7 availability of critical healthcare platforms serving major Brazilian operators.
@@ -58,11 +55,9 @@
 <br>
 <br>
 <p align="center">
-   <html>
-
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the Universidade Cruzeiro do Sul Virtual - EAD </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Volunteer Backend Developer @[He4rt Devs](https://heartdevs.com/)</b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Father </b></em><br/>
+   <img src="https://img.shields.io/badge/Education-000000?style=flat-square&logo=googlescholar&logoColor=white" /> &nbsp; <em><b> Studying at the Universidade Cruzeiro do Sul Virtual - EAD </b></em> <br/><br/>
+   <img src="https://img.shields.io/badge/Volunteer-000000?style=flat-square&logo=discord&logoColor=white" /> &nbsp; <em><b> Volunteer Backend Developer @[He4rt Devs](https://heartdevs.com/)</b></em> <br/><br/>
+   <img src="https://img.shields.io/badge/Family-000000?style=flat-square&logo=heart&logoColor=red" /> &nbsp; <em><b> Father </b></em> <br/>
 </p>
 
 

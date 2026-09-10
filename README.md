@@ -46,17 +46,16 @@
   </tr>
 </table>
 <br>
-<br>
 
 ### More 
 <br>
 <table>
 <html>
   <tr>
-    <td width="30%">
-      <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+    <td width="15%">
+      <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250"style="margin-left: 20px;" />
     </td>
-    <td width="350">
+    <td width="20%">
     <br>
       <b>Studying at the Universidade Cruzeiro do Sul Virtual - EAD </b><br/> 
 

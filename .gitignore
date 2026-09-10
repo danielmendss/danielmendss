@@ -1,0 +1,18 @@
+# Eclipse & IDE metadata
+.metadata/
+RemoteSystemsTempFiles/
+.project
+.settings/
+.classpath
+.idea/
+*.iml
+.vscode/
+
+# Other projects & local folders
+openGym/
+danielmendss-blog/
+
+# OS files & temp logs
+.DS_Store
+Thumbs.db
+*.log

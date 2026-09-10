@@ -49,23 +49,25 @@
 <br>
 
 ### More 
-
+<br>
 <table>
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
-<br>
-<br>
-<br>
-<br>
-<p align="left">
 <html>
+  <tr>
+    <td width="30%">
+      <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+    </td>
+    <td width="350">
+    <br>
+      <b>Studying at the Universidade Cruzeiro do Sul Virtual - EAD </b><br/> 
 
-<em><b> Studying at the Universidade Cruzeiro do Sul Virtual - EAD </b></em> <br/>
-Volunteer Backend Developer @[He4rt Devs](https://heartdevs.com/) <br>
-Father </b></em> <br/>
+Volunteer Backend Developer @[He4rt Devs](https://heartdevs.com/)<br>
+Father 
 <br>
-</p>
+      <br><br>
+    </td>
+  </tr>
 </table>
-
+<br>
 
 ### 🔗 Study's Cases
 

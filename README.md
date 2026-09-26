@@ -23,8 +23,8 @@
 <p>
  <b>nice2meety0u</b>
 
-  <em><b> I'm Daniel Victor Mendes Ribeiro</b></em>, a Software Enginner, <b>currently a System Support Engineer N2 Team Lead at @[TRIX Tecnologia Inteligente](https://www.linkedin.com/company/trix-tecnologia-inteligente/)</b>. I enjoy learning new technologies and fascionated problem solver, i like to have a daily practice at Exercism. Constantly improving my tech stack.
-  based in Brasília - DF, Brazil, specializing in Java , Spring Boot, and enterprise systems integration. I lead the N2 support team ensuring 24/7 availability of critical healthcare platforms serving major Brazilian operators.
+  <em><b> I'm Daniel Victor Mendes Ribeiro</b></em>, a Software Enginner, <b>currently a L2 Support Analyst at @[matera](https://www.matera.com/br/)</b>. I enjoy learning new technologies and fascionated problem solver, i like to have a daily practice at Exercism. Constantly improving my tech stack.
+  based in Brasília - DF, Brazil, specializing in Java , Spring Boot, PL/SQL, Oracle and enterprise systems integration. I lead the N2 support team ensuring 24/7 availability of critical healthcare platforms serving major Brazilian operators.
 </p>
 </table>
 
